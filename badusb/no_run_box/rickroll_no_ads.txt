@@ -1,0 +1,15 @@
+REM Made by @LeskaHub
+DELAY 500
+GUI Q
+DELAY 800
+STRING chrome
+DELAY 100
+ENTER
+DELAY 1500
+CTRL L
+DELAY 100
+STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
+DELAY 100
+ENTER
+DELAY 8000
+ALT F4
