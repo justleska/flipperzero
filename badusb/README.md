@@ -1,5 +1,6 @@
-# No Rrun Box
- No run box payloads are payloads that does not need the WIN+R (GUI r) key or any admins permissions to run. It is used for computers that need an admin password that you don't have access to.
+# BadUSB
+BadUSB scripts are payloads that execute action that a keyboard could do, also known as Rubber Ducky.
 
- Only use for education/pentest.
- Made by @LeskaHub
+ Only use for education/pentest or on your own devices/network.
+ Made by @LeskaHub (https://ko-fi.com/leskahtml)
+ Ressources: ChatGPT
