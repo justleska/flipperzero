@@ -4,4 +4,4 @@
 
  Only use for education/pentest or on your own devices/network.
 
- Made by @LeskaHub (https://ko-fi.com/leskahtml)
+ Made by @JustLeska
