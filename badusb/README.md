@@ -5,5 +5,3 @@ BadUSB scripts are payloads that execute action that a keyboard could do, also k
  Only use for education/pentest or on your own devices/network.
 
  Made by @JustLeska
- 
- Ressources: ChatGPT
