@@ -1,4 +1,4 @@
-REM Made by @LeskaHub
+REM Made by @JustLeska
 DELAY 500
 GUI Q
 DELAY 800
